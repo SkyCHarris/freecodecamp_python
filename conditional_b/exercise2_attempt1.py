@@ -8,6 +8,7 @@ try:
 except:
     print("Error. Please enter a numeric value")
     quit()
+# Need the quit() to escape and not run the rest of the code below BECAUSE we don't have a way to deal with a string input like 'ten'
 
 reg_pay = float_hours * float_rate
 
