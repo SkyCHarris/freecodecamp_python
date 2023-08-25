@@ -49,3 +49,13 @@ while True:
         break
     print(line)
 print('Done!')
+
+# Indefinite Loops
+
+# 'While loops' are called 'indefinite loops' because they keep going until a logical condition becomes False
+# The loops we've seen so far are easy to examine and see if they will terminate or if they are 'infinite loops'
+# Sometimes it's harder to be sure
+
+# Definite Loops
+
+# Iterate over a series of items
