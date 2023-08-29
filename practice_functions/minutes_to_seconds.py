@@ -5,5 +5,4 @@ def convert(minutes) :
     print(seconds)
     return seconds
   
-
 convert(5)
